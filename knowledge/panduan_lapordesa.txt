@@ -1,0 +1,187 @@
+
+PANDUAN CHATBOT LAPORDESA — DOKUMEN PENGGUNAAN APLIKASI
+
+Dokumen ini menjelaskan penggunaan aplikasi mobile LaporDesa sesuai fitur yang terdapat pada proyek contoh. Dokumen ini bukan aturan resmi pemerintahan desa. Chatbot hanya membantu memberikan panduan penggunaan aplikasi dan tidak memiliki akses langsung ke informasi pribadi, data akun, atau status laporan pengguna.
+
+LOGIN DAN REGISTRASI
+
+Untuk masuk ke aplikasi LaporDesa, buka halaman Login, kemudian masukkan nomor HP dan password akun yang telah terdaftar.
+
+Jika belum memiliki akun, pilih Registrasi dan lengkapi formulir pendaftaran sesuai petunjuk yang tersedia.
+
+Jika lupa password, pilih Lupa Password pada halaman login dan ikuti petunjuk yang ditampilkan.
+
+Sistem akun pada versi praktik ini masih menggunakan data demo atau lokal, bukan layanan autentikasi publik.
+
+MEMBUAT LAPORAN
+
+Untuk membuat laporan di aplikasi LaporDesa:
+
+1. Buka halaman Home.
+2. Pilih menu Buat Laporan atau Lapor.
+3. Pilih kategori permasalahan yang sesuai.
+4. Lanjutkan ke halaman detail laporan.
+5. Isi informasi yang diminta, seperti judul laporan, deskripsi permasalahan, foto, dan lokasi.
+6. Periksa kembali informasi yang telah dimasukkan.
+7. Ikuti tombol Lanjut atau Kirim sesuai tahapan yang ditampilkan aplikasi.
+
+Pastikan informasi laporan sesuai dengan kondisi sebenarnya agar laporan mudah dipahami.
+
+MENAMBAHKAN FOTO LAPORAN
+
+Untuk menambahkan foto saat membuat laporan:
+
+1. Buka halaman detail pembuatan laporan.
+2. Cari tombol atau bagian untuk menambahkan foto.
+3. Pilih gambar permasalahan melalui sumber yang tersedia pada aplikasi.
+4. Pastikan foto memperlihatkan kondisi masalah dengan jelas.
+5. Lanjutkan proses pembuatan laporan.
+
+Hindari mengunggah foto yang memuat informasi pribadi atau data sensitif jika tidak diperlukan.
+
+MENENTUKAN LOKASI LAPORAN
+
+Untuk menentukan lokasi saat membuat laporan:
+
+1. Buka proses pembuatan laporan.
+2. Masuk ke tahap Tentukan Lokasi.
+3. Isi atau pilih informasi lokasi menggunakan kontrol yang tersedia pada layar.
+4. Periksa kembali alamat atau lokasi yang dipilih.
+5. Lanjutkan ke tahap berikutnya.
+
+Chatbot LaporDesa tidak dapat membaca GPS atau mengetahui lokasi pengguna secara langsung.
+
+RIWAYAT LAPORAN
+
+Untuk melihat riwayat laporan:
+
+1. Buka aplikasi LaporDesa.
+2. Pilih menu Riwayat Laporan.
+3. Perhatikan daftar laporan yang tersedia pada perangkat atau akun demo.
+4. Pilih salah satu laporan untuk melihat informasi detailnya.
+5. Jika tersedia, gunakan filter status untuk mempermudah pencarian laporan.
+
+Chatbot tidak memiliki akses langsung ke database pengguna dan tidak dapat memastikan status laporan secara real-time.
+
+AKUN DAN EDIT PROFIL
+
+Untuk mengubah informasi profil:
+
+1. Buka menu Akun.
+2. Pilih Edit Profil.
+3. Perbarui informasi yang diperbolehkan pada formulir.
+4. Periksa kembali perubahan yang telah dilakukan.
+5. Simpan perubahan melalui tombol yang tersedia.
+
+Untuk mengubah password:
+
+1. Buka menu Akun.
+2. Pilih fitur Ubah Password.
+3. Isi informasi yang diminta sesuai tampilan aplikasi.
+4. Ikuti petunjuk untuk menyimpan perubahan password.
+
+Jangan membagikan password atau informasi rahasia akun kepada chatbot.
+
+MENGHAPUS AKUN LAPORDESA
+
+Pertanyaan: Bagaimana cara menghapus akun LaporDesa secara permanen?
+
+Pada versi aplikasi LaporDesa yang dijelaskan dalam panduan ini, belum tersedia prosedur penghapusan akun secara permanen yang dapat dilakukan langsung oleh pengguna.
+
+Jika pengguna ingin mendapatkan informasi mengenai penonaktifan atau penghapusan akun:
+
+1. Buka aplikasi LaporDesa.
+2. Masuk ke menu Bantuan.
+3. Periksa informasi kontak bantuan atau pengelola yang tersedia.
+4. Hubungi pihak pengelola untuk menanyakan prosedur dan ketentuan penghapusan akun.
+
+Chatbot tidak dapat menghapus akun pengguna secara langsung.
+
+Jangan menyampaikan bahwa akun sudah berhasil dihapus atau dinonaktifkan karena chatbot tidak memiliki akses untuk melakukan tindakan tersebut.
+
+NOTIFIKASI
+
+Untuk melihat notifikasi aplikasi:
+
+1. Buka aplikasi LaporDesa.
+2. Pilih menu Notifikasi.
+3. Periksa daftar informasi atau pemberitahuan yang ditampilkan.
+4. Buka pemberitahuan yang ingin dibaca jika aplikasi menyediakan detail notifikasi.
+
+Pada versi praktik, notifikasi dapat menggunakan data contoh.
+
+Chatbot tidak dapat melihat notifikasi terbaru atau memeriksa pemberitahuan pengguna secara langsung.
+
+BANTUAN DAN ASISTEN AI
+
+Untuk membuka bantuan penggunaan aplikasi:
+
+1. Buka menu Bantuan.
+2. Periksa informasi panduan penggunaan atau kontak bantuan yang tersedia.
+3. Pilih Asisten AI untuk membuka halaman percakapan chatbot.
+4. Ketik pertanyaan mengenai penggunaan aplikasi atau pilih salah satu dari lima pertanyaan umum yang tersedia.
+5. Tunggu hingga chatbot memberikan jawaban.
+
+Lima pertanyaan umum yang tersedia:
+
+1. Bagaimana cara membuat laporan?
+2. Bagaimana cara menentukan lokasi laporan?
+3. Bagaimana cara menambahkan foto laporan?
+4. Bagaimana cara melihat riwayat laporan?
+5. Bagaimana cara mengubah data profil akun?
+
+Chatbot memberikan jawaban berdasarkan dokumen panduan penggunaan aplikasi LaporDesa.
+
+PANDUAN PELAYANAN CHATBOT
+
+Chatbot LaporDesa bertugas membantu pengguna memahami cara menggunakan fitur aplikasi mobile LaporDesa.
+
+Gunakan bahasa Indonesia yang ramah, sopan, sederhana, dan mudah dipahami.
+
+Jika pertanyaan memerlukan langkah-langkah penggunaan aplikasi, berikan penjelasan secara berurutan agar mudah diikuti.
+
+Jika pengguna menggunakan bahasa santai atau singkatan, pahami maksud pertanyaannya selama masih berkaitan dengan penggunaan aplikasi LaporDesa.
+
+Jika pengguna menanyakan fitur yang belum memiliki prosedur lengkap dalam panduan, jelaskan informasi yang tersedia tanpa mengarang langkah tambahan.
+
+BATASAN TOPIK CHATBOT
+
+Chatbot hanya menjawab pertanyaan tentang penggunaan aplikasi mobile LaporDesa.
+
+Topik yang dapat dibantu meliputi:
+
+- Login dan registrasi akun.
+- Lupa password dan mengubah password.
+- Membuat laporan.
+- Memilih kategori laporan.
+- Menambahkan foto laporan.
+- Menentukan lokasi laporan.
+- Melihat riwayat laporan.
+- Mengubah informasi profil.
+- Informasi penghapusan akun sesuai panduan.
+- Menggunakan menu notifikasi.
+- Mengakses menu Bantuan.
+- Menggunakan Asisten AI.
+- Kendala penggunaan fitur aplikasi.
+
+Jika pengguna bertanya di luar penggunaan aplikasi LaporDesa, chatbot harus menjelaskan dengan sopan bahwa layanan ini dikhususkan untuk membantu penggunaan aplikasi.
+
+BATASAN FITUR DAN INFORMASI
+
+Chatbot tidak boleh mengarang informasi atau langkah penggunaan yang tidak terdapat dalam dokumen.
+
+Chatbot tidak memiliki akses langsung untuk:
+
+- Melihat data pribadi pengguna.
+- Memeriksa password.
+- Melihat database akun.
+- Mengetahui lokasi GPS pengguna.
+- Memastikan status laporan secara langsung.
+- Mengirim laporan atas nama pengguna.
+- Mengubah data profil pengguna.
+- Menghapus atau menonaktifkan akun.
+- Mengirim notifikasi secara langsung.
+
+Jika informasi yang dibutuhkan tidak tersedia dalam dokumen, chatbot harus menyampaikan keterbatasan tersebut dengan bahasa yang ramah.
+
+Jangan memberikan nomor kontak, kebijakan desa, atau informasi layanan yang belum tercantum dalam panduan.
